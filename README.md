@@ -27,7 +27,9 @@
 
 ### Segue imagem abaixo
 
-![alt text](https://ibb.co/fvYGHbt)
+<div align="center">
+<img src="https://ibb.co/fvYGHbt"/>
+</div>
 
   - depois é só rodar - yarn dev
 
