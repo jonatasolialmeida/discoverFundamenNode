@@ -14,9 +14,9 @@
     (https://www.notion.so/Configura-es-do-ambiente-45e12d2ced17465cabbd81dcbd53576d)
 
 - Depois de tudo instalado:
-    - iniciei um projeto com - yarn init -y
-    - instalei o package express - yarn add express
-    - instalei o package nodemon - yarn add nodemon -D
+    - iniciei um projeto com:  yarn init -y
+    - instalei o package express:  yarn add express
+    - instalei o package nodemon:  yarn add nodemon -D
     - fui no arquivo package.json e inseri um script para rodar o servidor.
 
     "scripts": {
