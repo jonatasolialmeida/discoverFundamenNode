@@ -41,4 +41,10 @@
   - const app = express();
   - app.listen(3333);
 
+  ### Exemplo abaixo
+
+  <div align="center">
+<img src="https://github.com/jonatasolialmeida/discoverFundamenNode/blob/master/images/index.png"/>
+</div>
+
   ### Todo trecho de código que vc quiser ver rodar no terminal, coloque abaixo de (const app) e acima de (app.listen) e lógico, usando console.log() para isso...
