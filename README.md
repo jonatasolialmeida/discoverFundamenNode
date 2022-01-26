@@ -28,7 +28,7 @@
 ### Segue imagem abaixo
 
 <div align="center">
-<img src="https://ibb.co/fvYGHbt"/>
+<img src="https://github.com/jonatasolialmeida/discoverFundamenNode/blob/master/images/json.png"/>
 </div>
 
   - depois é só rodar - yarn dev
