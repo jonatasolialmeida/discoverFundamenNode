@@ -37,8 +37,8 @@
 
   ### Ah, tambem criei uma pasta src no projeto, e dentro um arquivo index.js com as primeiras configurações para rodar o servidor
 
-  const express = require("express");
-  const app = express();
-  app.listen(3333);
+  - const express = require("express");
+  - const app = express();
+  - app.listen(3333);
 
   ### Todo trecho de código que vc quiser ver rodar no terminal, coloque abaixo de (const app) e acima de (app.listen) e lógico, usando console.log() para isso...
