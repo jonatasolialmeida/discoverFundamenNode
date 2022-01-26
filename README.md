@@ -14,9 +14,9 @@
     (https://www.notion.so/Configura-es-do-ambiente-45e12d2ced17465cabbd81dcbd53576d)
 
 - Depois de tudo instalado:
-    - iniciei um projeto com - yarn init -y
-    - instalei o package express - yarn add express
-    - instalei o package nodemon - yarn add nodemon -D
+    - iniciei um projeto com:  yarn init -y
+    - instalei o package express:  yarn add express
+    - instalei o package nodemon:  yarn add nodemon -D
     - fui no arquivo package.json e inseri um script para rodar o servidor.
 
     "scripts": {
@@ -37,8 +37,8 @@
 
   ### Ah, tambem criei uma pasta src no projeto, e dentro um arquivo index.js com as primeiras configurações para rodar o servidor
 
-  const express = require("express");
-  const app = express();
-  app.listen(3333);
+  - const express = require("express");
+  - const app = express();
+  - app.listen(3333);
 
   ### Todo trecho de código que vc quiser ver rodar no terminal, coloque abaixo de (const app) e acima de (app.listen) e lógico, usando console.log() para isso...
